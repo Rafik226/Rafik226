@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Oumar Abdoul Rafik SAWADOGO                                
+# 👋 Salut, je suis Oumar Abdoul Rafik SAWADOGO |                         
 
 ## 👀 À propos de moi
 Je suis passionné par les nouvelles technologies et l'entrepreneuriat. Actuellement, je suis développeur web et mobile  et étudiant en deuxième année d'informatique basé au Burkina Faso.
@@ -6,6 +6,8 @@ Je suis passionné par les nouvelles technologies et l'entrepreneuriat. Actuelle
 ## 🌱 Actuellement en apprentissage
 - Techniques avancées de Flutter
 - Développement Front-end (HTML - CSS - JavaScript)
+- Développement Front-backend (Django)
+- Database management (MySQL - PostgresSQL)
 
 ## 💞️ Je cherche à collaborer sur
 - Projets d'applications innovantes
