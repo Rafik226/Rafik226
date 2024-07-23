@@ -1,4 +1,4 @@
-# 👋 Salut, je suis @Rafik226
+# 👋 Salut, je suis Oumar Abdoul Rafik SAWADOGO
 
 ## 👀 À propos de moi
 Je suis passionné par les nouvelles technologies et l'entrepreneuriat. Actuellement, je suis développeur web et mobile  et étudiant en deuxième année d'informatique basé au Burkina Faso.
