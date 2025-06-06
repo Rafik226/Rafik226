@@ -8,14 +8,13 @@
 - **Web** : HTML, CSS, JavaScript, React
 - **Backend** : Django REST Framework, Laravel
 - **Base de données** : PostgreSQL, Firebase, MySQL
-- **UI/UX** : Canva
+- **UI/UX** : Figma, Canva
 - **Outils** : Git, GitHub, Postman, Google Workspace
 - **Méthodologies** : Scrum, gestion de projet agile
 
 ## 🌱 En cours d'apprentissage
-- Laravel, Next.js
-- Figma
-- IA générative, machine learning, intégration dans les apps
+- Next.js
+- IA générative, machine learning
 
 
 
